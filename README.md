@@ -4,6 +4,9 @@ Batch ETL that reads **SuperStoreOrders.csv**, builds a star schema with a
 Slowly Changing Dimension Type 2 (SCD2) product table, and loads everything
 into a PostgreSQL data warehouse.
 
+## Dashboard Preview
+![SCD2 Explorer Dashboard](screenshot.png)
+
 ---
 
 ## Quick Start
